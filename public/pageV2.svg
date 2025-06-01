@@ -1,0 +1,10 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="20" fill="black"/>
+  <text x="50%" y="50%" text-anchor="middle" dy=".35em"
+        font-family="Poppins, sans-serif"
+        font-size="48"
+        fill="white"
+        font-weight="600">
+    AK
+  </text>
+</svg>
